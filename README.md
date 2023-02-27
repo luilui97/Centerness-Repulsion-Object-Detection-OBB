@@ -8,12 +8,13 @@ Remote sensing object detection is a basic yet challenging task in remote sensin
 
 ## Installation
 
-Please see [README_mmrotate](README_mmrotate.md) to install MMRotate
+Please see [README_mmrotate](./README_mmrotate.md) to install MMRotate
 
 ## File 
 
 [config files](configs/repulsion_centerness_reppoints/) is available to train our proposed model.
 
-The head of our model is availabel at [models/dense_heads/repulsion_oriented_reppoints_head.py](models/dense_heads/repulsion_oriented_reppoints_head.py)
+The head of our model is availabel at [models/dense_heads/repulsion_oriented_reppoints_head.py](./models/dense_heads/repulsion_oriented_reppoints_head.py)
 
-Repulsion loss can be found at [Repulsion Loss is available at models/losses/repulsion_reppoints_loss.py](Repulsion Loss is available at models/losses/repulsion_reppoints_loss.py)
+Repulsion loss can be found at [models/losses/repulsion_reppoints_loss.py](./models/losses/repulsion_reppoints_loss.py)
+
