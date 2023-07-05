@@ -18,3 +18,22 @@ The head of our model is availabel at [mmrotate/models/dense_heads/repulsion_ori
 
 Repulsion loss can be found at [mmrotate/models/losses/repulsion_reppoints_loss.py](mmrotate/models/losses/repulsion_reppoints_loss.py)
 
+## Citations
+
+If you use this repo, please cite the following paper. 
+
+```
+@Article{rs15061479,
+AUTHOR = {Gao, Lei and Gao, Hui and Wang, Yuhan and Liu, Dong and Momanyi, Biffon Manyura},
+TITLE = {Center-Ness and Repulsion: Constraints to Improve Remote Sensing Object Detection via RepPoints},
+JOURNAL = {Remote Sensing},
+VOLUME = {15},
+YEAR = {2023},
+NUMBER = {6},
+ARTICLE-NUMBER = {1479},
+URL = {https://www.mdpi.com/2072-4292/15/6/1479},
+ISSN = {2072-4292},
+DOI = {10.3390/rs15061479}
+}
+
+```
